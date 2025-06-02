@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khai-ta-6b4951316)
 
 🛰️ Incoming **ML Engineer Intern @ Lockheed Martin**<br>
-🎓 **CS @ Penn State** - focused on **AI/ML**<br>
+🎓 **CS @ Penn State**
 
 ---
 
