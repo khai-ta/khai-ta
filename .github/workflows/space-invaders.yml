@@ -22,4 +22,4 @@ jobs:
           output-path: 'space-invaders.gif'
           strategy: 'random'
           fps: 30
-          max-frame: 650
+          max-frame: 700
