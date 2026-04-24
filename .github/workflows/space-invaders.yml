@@ -21,3 +21,5 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: 'space-invaders.gif'
           strategy: 'random'
+          fps: 30
+          max-frame: 200
